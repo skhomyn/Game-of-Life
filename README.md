@@ -1,6 +1,10 @@
 # Game-of-Life
 Recreation of Conway's famous Game of Life using Maple.
 
+<a href="https://imgflip.com/gif/21imy0"><img src="https://i.imgflip.com/21imy0.gif" title="made at imgflip.com"/></a>
+
+## Program
+I created this program in Maple, a programming language originating from the University of Waterloo. Maple was created with the purpose of solving complex mathematical equations. It has cool features such as drawing colourful fractal equations.
 
 ## Description
 
