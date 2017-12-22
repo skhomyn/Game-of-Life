@@ -11,9 +11,12 @@ I created this program in Maple, a programming language originating from the Uni
 The Game of Life is a program developed by Mathematician John Conway. It consists of a two dimensional grid of square cells, with each being in one of two possible states, dead (0) or alive (1). The state of these cells is determined by the states of the cells adjacent to it:
 
 • Any live cell with less than two live cells around it dies from under population.
+
 • Any live cell with over three live cells around it dies from over population.
+
 • Any live cell with either two or three live cells around it lives on to the next
 generation.
+
 • Any dead cell with exactly three live cells around it becomes a living cell,
 imitating birth.
 
